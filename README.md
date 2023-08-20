@@ -7,7 +7,7 @@ This is a project completed in a Summer Program in Columbia University . A Game 
 
 * Recommender System/PPT.pdf:This is for our group's final presentation.
 
-*Recommender System/Recommender System.ipynb:This is the recommendation system code implementation section.This includes data preprocessing, visualization, and modeling using Kmeans, Gaussian mixture, and item-based collaborative filtering respectively
+* Recommender System/Recommender System.ipynb:This is the recommendation system code implementation section.This includes data preprocessing, visualization, and modeling using Kmeans, Gaussian mixture, and item-based collaborative filtering respectively
 
 * Recommender System/Recommender System.pdf:Here's our report on the project.
 
