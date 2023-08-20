@@ -1,5 +1,5 @@
-# 2023_Summer_Program
-This is a project completed in a Summer Program in Columbia University . A Game Recommendation System for Steam,I'm Alex,I am mainly responsible for the implementation of the code
+# Steam Recommender System
+This is a project completed in a Summer Program in Columbia University . A Game Recommendation System for Steam.I'm Alex,I am mainly responsible for the implementation of the code
 
 **crew members**:Alex, Sen, Cynthia, Lydia, Henry, Ben
 
@@ -13,4 +13,5 @@ This is a project completed in a Summer Program in Columbia University . A Game 
 * Recommender System/Recommender System.pdf:Here's our report on the project.
 
 **Computer Configuration**:
+
 The computer configuration using to generate the model is Intel i9 Sixteen-Core Processor with 16GB memory, and the Graphics Card is NIVIDA GeForce RTX 4080 Laptop. The main way to organize the data is python libraries like pandas and NumPy, and the navigator used for this research is anaconda.
