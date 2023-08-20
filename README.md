@@ -3,6 +3,7 @@ This is a project completed in a Summer Program in Columbia University . A Game 
 
 **Project members**:Alex, Sen, Cynthia, Lydia, Henry, Ben
 
+**File introduction**:
 * Recommender System/Data/steam-200k.csv:The dataset comes from [kaggle](https://www.kaggle.com/datasets/tamber/steam-video-games) and contains 200,000 pieces of data and four features, namely UserID, game_title, purchase and playhours.
 
 * Recommender System/PPT.pdf:This is for our group's final presentation.
